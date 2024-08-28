@@ -1,6 +1,6 @@
 ## Hello, I am Adriane Oliveira. 👋
 
-- 🪄Future back-end or IA collaborator
+- 🪄 Programmer in Continuous Personal Development
 - 🌱 Studying Front-end !
 - 📧 Contact me via email: adriaoliv@gmail.com
 - 😄 Pronouns: she/her
