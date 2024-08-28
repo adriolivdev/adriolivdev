@@ -7,7 +7,7 @@
 
 ![Adriaolivdev GitHub stats](https://github-readme-stats.vercel.app/api?username=adriolivdev&show_icons=true&theme=rose)
 
-### Technologies I'm mastering now🚀
+### I'm learning🚀
 
 <div style="display: inline_block"><br/>
 <img align="center"alt="Html5" src=https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white />
