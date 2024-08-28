@@ -1,7 +1,7 @@
 ## Hello, I am Adriane Oliveira. 👋
 
 - 🪄Future back-end or IA collaborator
-- 🌱 Studying Python, Java, and R
+- 🌱 Studying Front-end !
 - 📧 Contact me via email: adriaoliv@gmail.com
 - 😄 Pronouns: she/her
 
