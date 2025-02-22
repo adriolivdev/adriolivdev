@@ -1,7 +1,7 @@
 ## Hello, I am Adriane Oliveira. 👋
 
 - 🪄 Programmer in Continuous Personal Development
-- 🌱 Studying front-end and starting the backend !
+- 🌱 front-end and starting the backend and IoT tech!
 - 📧 Contact me via email: oadriaoliv@gmail.com
 - 😄 Pronouns: she/her
 
