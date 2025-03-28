@@ -6,8 +6,6 @@
 
 <h2>Desenvolvedora Full-Stack JR</h2>
 
-![CatTypingGIF](https://github.com/user-attachments/assets/30461076-6cbb-4913-a677-9c18548a270a)
-
 
 <p> 🪄 Atualmente trabalhando com projetos full-stack pessoais</p>
 <p>🌱 Programando em Python, JavasScript e aprendendo Java</p>
@@ -50,6 +48,7 @@
 
   
 ### 👩🏼‍🚀Apaixonada por tecnologia e inovação💡🌟
+![CatTypingGIF](https://github.com/user-attachments/assets/30461076-6cbb-4913-a677-9c18548a270a)
 
 
 
