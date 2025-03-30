@@ -1,5 +1,5 @@
 <h1 align="center">
-   <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=600&height=70&duration=5000&lines=Olá+👋,+bem-vindo+ao+meu+GitHub!;&color=FF1493" />
+   <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=600&height=70&duration=5000&lines=Olá+👋,+Bem-vindo+ao+meu+GitHub!;&color=FF1493" />
    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=600&height=70&duration=5000&lines=Sou+Adriane+Oliveira+☺️;&color=FF1493" />
 </h1>
 
@@ -8,7 +8,7 @@
 
 
 <p> 🪄 Atualmente trabalhando com projetos full-stack pessoais</p>
-<p>🌱 Programando em Python, JavasScript e aprendendo Java</p>
+<p>🌱 Programando em Python, JavaScript e aprendendo Java</p>
 <p> 📧 Contact me via email: oadriaoliv@gmail.com</p>
 <p>😄 Pronouns: she/her</p>
 
