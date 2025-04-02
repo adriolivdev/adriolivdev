@@ -31,11 +31,11 @@
 ## Tecnologias em Aprendizado 📚
 
 - **Front-end:** Tailwind CSS 🎨 | Next.js, Nuxt.js
-- **Back-end/Server:** Node.js, TypeScript
+- **Back-end/Server:** Node.js, TypeScript, SpringBoot
 - **APIs e Comunicação:** GraphQL
 - **Bancos de Dados:** PostgreSQL, MongoDB
 - **Containerização e Orquestração:** Docker 🐳, Kubernetes
-- 
+  
 
 ---
 
