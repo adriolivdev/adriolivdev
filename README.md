@@ -1,6 +1,6 @@
 <h1 align="center">
   <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=600&height=70&duration=5000&lines=Olá+👋,+Bem-vindo+ao+meu+GitHub!;&color=FF1493" />
-  <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=600&height=70&duration=5000&lines=Sou+Adriane+Oliveira+☺️;&color=FF1493" />
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=600&height=70&duration=5000&lines=Sou+Adriane+Oliveira;&color=FF1493" />
 </h1>
 
 <h2 align="center">Desenvolvedora Full-Stack JR 🚀</h2>
